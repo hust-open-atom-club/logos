@@ -2,4 +2,4 @@
 
 License: CC-0
 
-Please contact @jingfelix if you have any question.
+Please contact [@jingfelix](https://github.com/jingfelix) if you have any question.
