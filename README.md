@@ -29,3 +29,8 @@ If you would like to modify these files to make your own little penguins, I reco
 <img src="tips_dark/tips_dark.svg" style="width: 41%">
 <img src="tips_light/tips_light.svg" style="width: 41%">
 </div>
+
+<div>
+<img src="penguin_black_small/penguin_black_small.svg" style="width: 20%">
+<img src="penguin_blue_small/penguin_blue_small.svg" style="width: 20%">
+</div>
